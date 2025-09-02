@@ -4,7 +4,7 @@ import { Monitor, Menu, X, Phone } from 'lucide-react';
 const Header = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
 
-  const phoneNumber = "+22890123456"; // Numéro WhatsApp à remplacer
+  const phoneNumber = "+22896257589"; // Numéro WhatsApp à remplacer
 
   const openWhatsApp = () => {
     window.open(`https://wa.me/${phoneNumber}`, '_blank');

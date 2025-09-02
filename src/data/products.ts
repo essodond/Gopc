@@ -5,7 +5,7 @@ export const products = [
     brand: "HP",
     price: "450 000 FCFA",
     originalPrice: "500 000 FCFA",
-    image: "https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/29/f4/c2/29f4c274a49582118537487d935814b1.jpg?auto=compress&cs=tinysrgb&w=800",
     description: "Ordinateur portable 15.6″, Intel Core i5, 8GB RAM, 512GB SSD. Parfait pour les études et le multimédia.",
     rating: 4.5,
     category: "Ordinateur Portable"
@@ -15,7 +15,7 @@ export const products = [
     name: "Dell Inspiron 14",
     brand: "Dell",
     price: "280 000 FCFA",
-    image: "https://images.pexels.com/photos/812264/pexels-photo-812264.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/736x/86/54/79/8654793915bc972c4ff2bdbe7901f597.jpg",
     description: "PC portable léger et performant, Intel Core i3, 8GB RAM, 256GB SSD. Idéal pour la bureautique.",
     rating: 4.3,
     category: "Ordinateur Portable"
@@ -25,7 +25,7 @@ export const products = [
     name: "Lenovo ThinkPad E15",
     brand: "Lenovo",
     price: "420 000 FCFA",
-    image: "https://images.pexels.com/photos/303383/pexels-photo-303383.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/8d/6f/c3/8d6fc3cd0f8e56a94a0dafb97df972a4.jpg",
     description: "PC professionnel robuste, Intel Core i7, 16GB RAM, 1TB SSD. Pour les étudiants exigeants.",
     rating: 4.7,
     category: "Ordinateur Portable"
@@ -46,7 +46,7 @@ export const products = [
     name: "Barrette RAM 8GB DDR4",
     brand: "Crucial",
     price: "15 000 FCFA",
-    image: "https://images.pexels.com/photos/163125/circuit-circuit-board-resistor-computer-163125.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/e2/1e/b6/e21eb6434c041d3efcbd497d9bfe3ab4.jpg",
     description: "Mémoire RAM DDR4 8GB, vitesse 3200MHz. Boostez les performances de votre PC.",
     rating: 4.8,
     category: "Composant"
@@ -56,7 +56,7 @@ export const products = [
     name: "Disque Dur Externe 1TB",
     brand: "Seagate",
     price: "45 000 FCFA",
-    image: "https://images.pexels.com/photos/442150/pexels-photo-442150.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/736x/21/3e/29/213e29dd7a87092bab73b0ec31ddb6e2.jpg",
     description: "Stockage externe portable 1TB, USB 3.0. Sauvegardez tous vos documents et projets.",
     rating: 4.4,
     category: "Stockage"
@@ -66,7 +66,7 @@ export const products = [
     name: "Clé USB 64GB",
     brand: "SanDisk",
     price: "7 000 FCFA",
-    image: "https://images.pexels.com/photos/1181675/pexels-photo-1181675.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/a3/1d/6b/a31d6b15498a3b56c5fa05d306a41b12.jpg",
     description: "Clé USB ultra-rapide 64GB, USB 3.1. Parfaite pour transporter vos fichiers partout.",
     rating: 4.2,
     category: "Stockage"
@@ -77,7 +77,7 @@ export const products = [
     brand: "Corsair",
     price: "65 000 FCFA",
     originalPrice: "85 000 FCFA",
-    image: "https://images.pexels.com/photos/1772123/pexels-photo-1772123.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/736x/0c/4e/5f/0c4e5f0c6223b637cae03cf601cb6da4.jpg?auto=compress&cs=tinysrgb&w=800",
     description: "Clavier gaming mécanique avec rétroéclairage RGB. Idéal pour gaming et programmation.",
     rating: 4.9,
     category: "Accessoire"
@@ -88,7 +88,7 @@ export const products = [
     name: "Carte Graphique NVIDIA RTX 3060",
     brand: "NVIDIA",
     price: "250 000 FCFA",
-    image: "https://images.pexels.com/photos/1272271/pexels-photo-1272271.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/ba/a6/83/baa6835fa501a91a97c14aeeb0bc7295.jpg",
     description: "Carte graphique NVIDIA RTX 3060, 12GB GDDR6. Graphismes fluides pour les jeux vidéo.",
     rating: 4.8,
     category: "Composant"
@@ -99,7 +99,7 @@ export const products = [
     name: "Carte Graphique AMD Radeon RX 6600",
     brand: "AMD",
     price: "180 000 FCFA",
-    image: "https://images.pexels.com/photos/1272272/pexels-photo-1272272.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/3a/5c/f0/3a5cf07a8ba363dfc469d12c813eeff8.jpg",
     description: "Carte graphique AMD Radeon RX 6600, 8GB GDDR6. Graphismes fluides pour les jeux vidéo.",
     rating: 4.7,
     category: "Composant"
@@ -109,7 +109,7 @@ export const products = [
     name: "Carte Graphique AMD Radeon RX 6700 XT",
     brand: "AMD",
     price: "220 000 FCFA",
-    image: "https://images.pexels.com/photos/1272273/pexels-photo-1272273.jpeg?auto=compress&cs=tinysrgb&w=800",
+    image: "https://i.pinimg.com/1200x/3a/ab/a0/3aaba03bcc068ba4195d7198c4a725bc.jpg",
     description: "Carte graphique AMD Radeon RX 6700 XT, 16GB GDDR6. Graphismes fluides pour les jeux vidéo.",
     rating: 4.9,
     category: "Composant"

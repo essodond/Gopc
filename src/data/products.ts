@@ -45,7 +45,7 @@ export const products = [
     id: 5,
     name: "Barrette RAM 8GB DDR4",
     brand: "Crucial",
-    price: "35 000 FCFA",
+    price: "15 000 FCFA",
     image: "https://images.pexels.com/photos/163125/circuit-circuit-board-resistor-computer-163125.jpeg?auto=compress&cs=tinysrgb&w=800",
     description: "Mémoire RAM DDR4 8GB, vitesse 3200MHz. Boostez les performances de votre PC.",
     rating: 4.8,
